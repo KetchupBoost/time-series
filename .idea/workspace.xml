@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1136872b-2aca-4afd-9136-ea046583bcfb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 - Intro/StockPrices.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 - AutoRegression Model/05-FittingNormalizedReturns.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TimeSeries.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TimeSeries.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 - Intro/InstallingPackages.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Intro/InstallingPackages.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Working with TS/TimeSeries.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Working with TS/TimeSeries.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoRegression Model/01-Imports.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoRegression Model/02-Autoregression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoRegression Model/03-ReturnsInpection.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoRegression Model/04-ARs_Returns.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoRegression Model/Course-Notes-The-AR-Model.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IV0OcTvmVRt6oajYZjxYMGyPB4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Yago/PycharmProjects/TimeSeries",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1136872b-2aca-4afd-9136-ea046583bcfb" name="Changes" comment="" />
+      <created>1670251411591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670251411591</updated>
+      <workItem from="1670251413075" duration="9472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
